@@ -45,13 +45,13 @@ function nodeMailer(email, name, subject, body) {
     port: 465,
     secure: true,
     auth: {
-      user: "mr.millionaire.siddiqui@gmail.com",
+      user: "contact.impetus5@gmail.com",
       pass: process.env.PASSWORD,
     },
   });
 
   let mailOptions = {
-    from: "mr.millionaire.siddiqui@gmail.com",
+    from: "contact.impetus5@gmail.com",
     to: email,
     subject: subject,
     html: body,
