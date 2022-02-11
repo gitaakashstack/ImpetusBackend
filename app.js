@@ -291,7 +291,7 @@ app.post("/verification", async (req, res) => {
                                                     border="0">
                                                     <tbody>
                                                         <tr>
-                                                            <td style="width:300px;"><a href="https://discordapp.com/"
+                                                            <td style="width:300px;"><a href="#"
                                                                     target="_blank"><img alt="" title="" height="80px"
                                                                         src="https://www.iiests.ac.in/assets/images/iiest.png"
                                                                         style="border:none;border-radius:13px;display:block;outline:none;text-decoration:none;width:100%;height:58px;"
@@ -892,7 +892,7 @@ app.post("/verifyemail", async (req, res) => {
                                                     border="0">
                                                     <tbody>
                                                         <tr>
-                                                            <td style="width:300px;"><a href="https://discordapp.com/"
+                                                            <td style="width:300px;"><a href="#"
                                                                     target="_blank"><img alt="" title="" height="80px"
                                                                         src="https://www.iiests.ac.in/assets/images/iiest.png"
                                                                         style="border:none;border-radius:13px;display:block;outline:none;text-decoration:none;width:100%;height:58px;"
@@ -994,7 +994,7 @@ app.post("/verifyemail", async (req, res) => {
                                                         <h2
                                                             style="font-family: Whitney, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-weight: 500;font-size: 20px;color: #4F545C;letter-spacing: 0.27px;">
                                                             Hey ${name},</h2>
-                                                        <p>Wowwee! Thanks for registering an account with Discord!
+                                                        <p>Wowwee! Thanks for registering an account with Impetus 5.0 !
                                                             You're the coolest person in all the land (and I've met a
                                                             lot of really cool people).</p>
                                                         <p>Before we get started, we'll need to verify your email.</p>
@@ -1634,7 +1634,7 @@ app.post("/casignup", async (req, res) => {
                                                     border="0">
                                                     <tbody>
                                                         <tr>
-                                                            <td style="width:300px;"><a href="https://discordapp.com/"
+                                                            <td style="width:300px;"><a href="#"
                                                                     target="_blank"><img alt="" title="" height="80px"
                                                                         src="https://www.iiests.ac.in/assets/images/iiest.png"
                                                                         style="border:none;border-radius:13px;display:block;outline:none;text-decoration:none;width:100%;height:58px;"
@@ -2224,7 +2224,7 @@ app.post("/adminsignup", async (req, res) => {
                                                     border="0">
                                                     <tbody>
                                                         <tr>
-                                                            <td style="width:300px;"><a href="https://discordapp.com/"
+                                                            <td style="width:300px;"><a href="#"
                                                                     target="_blank"><img alt="" title="" height="80px"
                                                                         src="https://www.iiests.ac.in/assets/images/iiest.png"
                                                                         style="border:none;border-radius:13px;display:block;outline:none;text-decoration:none;width:100%;height:58px;"
@@ -2742,7 +2742,7 @@ app.post("/sendreminder", adminauthenticate, async (req, res) => {
                                                     border="0">
                                                     <tbody>
                                                         <tr>
-                                                            <td style="width:300px;"><a href="https://discordapp.com/"
+                                                            <td style="width:300px;"><a href="#"
                                                                     target="_blank"><img alt="" title="" height="80px"
                                                                         src="https://www.iiests.ac.in/assets/images/iiest.png"
                                                                         style="border:none;border-radius:13px;display:block;outline:none;text-decoration:none;width:100%;height:58px;"
@@ -3588,7 +3588,7 @@ app.post("/sendmessage", adminauthenticate, async (req, res) => {
                                                     border="0">
                                                     <tbody>
                                                         <tr>
-                                                            <td style="width:300px;"><a href="https://discordapp.com/"
+                                                            <td style="width:300px;"><a href="#"
                                                                     target="_blank"><img alt="" title="" height="80px"
                                                                         src="https://www.iiests.ac.in/assets/images/iiest.png"
                                                                         style="border:none;border-radius:13px;display:block;outline:none;text-decoration:none;width:100%;height:58px;"
