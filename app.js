@@ -110,11 +110,11 @@ let events = [
   },
   {
     id: 8,
-    amount: 250,
+    amount: 200,
   },
   {
     id: 9,
-    amount: 200,
+    amount: 160,
   },{
     id: 10,
     amount: 30,
