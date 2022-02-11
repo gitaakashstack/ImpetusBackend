@@ -1011,7 +1011,7 @@ app.post("/verifyemail", async (req, res) => {
                                                             <tr>
                                                                 <td style="border:none;border-radius:3px;color:white;cursor:auto;padding:15px 19px;"
                                                                     align="center" valign="middle" bgcolor="#7289DA"><a
-                                                                        href="https://impetusback.herokuapp.com/signup/${email}/${code}"
+                                                                        href="https://impetus-backend.herokuapp.com/signup/${email}/${code}"
                                                                         style="text-decoration:none;line-height:100%;background:#7289DA;color:white;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:15px;font-weight:normal;text-transform:none;margin:0px;"
                                                                         target="_blank">
                                                                         Verify Email
