@@ -3875,7 +3875,7 @@ app.get('/eventsregistrations' , async(req,res)=>{
   let eventsregistrations = [0 ,0 ,0,0,0,0,0,0,0,0]
   const paidUsers = await Paid.find();
   paidUsers.map(pd=>{
-    if(pd.eventName.includes('CAD Competition'))
+    if(pd.eventName.includes('CADegorized'))
     eventsregistrations[0] = eventsregistrations[0]+1;
     else if(pd.eventName.includes('Yantra Search'))
     eventsregistrations[1] = eventsregistrations[1]+1;
