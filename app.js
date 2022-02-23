@@ -3867,7 +3867,7 @@ app.post("/sendmessage", adminauthenticate, async (req, res) => {
 
 app.get('/leadersScore' , async(req,res)=>{
   let leadersData = await LeaderShipSchema.find();
-  leadersData.sort((a, b) => a.price > b.price ? 1: -1);
+  leadersData.sort((a, b) => a.score > b.score ? 1: -1);
   res.status(200).send({ leadersData : leadersData });
 })
 
